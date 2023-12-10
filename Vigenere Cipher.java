@@ -1,5 +1,5 @@
 /*=============================================================================
-| Assignment: pa01 - Encrypting a plaintext file using the Vigenere cipher
+|
 |
 | Author: Trent Gaymore
 | Language:Java
@@ -13,11 +13,6 @@
 | and pX.txt is plaintext file
 |
 | Note: All input files are simple 8 bit ASCII input
-|
-| Class: CIS3360 - Security in Computing - Fall 2022
-| Instructor: McAlpin
-| Due Date: 10/16/2022
-|
 +============================================================================= */
 import java.io.*;
 import java.util.*;
